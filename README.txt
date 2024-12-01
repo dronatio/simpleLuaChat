@@ -3,7 +3,3 @@ com ele você se comunica diretamente com os clients e com o host
 foi feito pela dronatio como um passa tempo
 as bibliotecas tcp_client e tcp_server forão feitas pelo chat gpt ou sejá os creditos dela não vão para a Dronatio
 utilize o programa como quiser se se inspire nele para criar seu prorpio
-
-tente entrar na nossa rede do Radmin VPN e procure alguem para falar
-nome: redeRadminOficialLuaChat
-senha: redeoficial
